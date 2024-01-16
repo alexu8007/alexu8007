@@ -15,7 +15,7 @@
 
 ---
 
-### :woman_technologist: About Me :
+### :man_technologist: About Me :
 <!--
 **alex99cool/alex99cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
