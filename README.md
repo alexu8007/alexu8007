@@ -16,7 +16,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Software Developer & Founder & CTO @ Pillthought <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+I am a Software Developer & **Founder & CTO @ Pillthought** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 <!--
 **alex99cool/alex99cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
