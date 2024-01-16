@@ -24,7 +24,7 @@ I am a Software Developer & **Founder & CTO @ Pillthought** <img src="https://me
 
 - :zap: In my free time, I DJ and work on learning new tech!
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-alex-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/alexungureanuu/))
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Alex-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/alexungureanuu/))
 <!--
 **alex99cool/alex99cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
