@@ -59,7 +59,7 @@ I am a Software Developer & **Founder & CTO @ Pillthought** <img src="https://me
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex99cool&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alex99cool" alt="bombo" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alex99cool" alt="bombo" /></a> </p>
 
 
 <!--
