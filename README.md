@@ -17,6 +17,14 @@
 
 ### :man_technologist: About Me :
 I am a Software Developer & **Founder & CTO @ Pillthought** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
+- :telescope: I’m working as CTO developing and creating Innovative Software
+
+- 🤔: Exploring the working of a startup <img src="https://i.gifer.com/xw.gif" width="30">
+
+- :zap: In my free time, I DJ and work on learning new tech!
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]((https://www.linkedin.com/in/alexungureanuu/))
 <!--
 **alex99cool/alex99cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
