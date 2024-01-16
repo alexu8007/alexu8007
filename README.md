@@ -50,6 +50,16 @@ I am a Software Developer & **Founder & CTO @ Pillthought** <img src="https://me
    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### 🥇: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alex99cool&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex99cool&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **alex99cool/alex99cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
