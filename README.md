@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=alex99cool&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=alexu8007&style=flat-square&color=blue" alt=""/>
   <h1>
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -54,15 +54,15 @@ I am a Software Developer & **Founder & CTO @ Pillthought** <img src="https://me
 
 ### 🥇: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alex99cool&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alexu8007&theme=dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex99cool&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexu8007&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alex99cool" alt="bombo" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexu8007" alt="bombo" /></a> </p>
 
 
 <!--
-**alex99cool/alex99cool** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**alexu8007/alexu8007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
