@@ -20,7 +20,7 @@ I am a Software Developer & **Founder & CTO @ Pillthought** <img src="https://me
 
 - :telescope: I’m working as CTO developing and creating Innovative Software
 
-- 🤔: Exploring the working's of a startup <img src="https://i.gifer.com/xw.gif](https://media.giphy.com/media/7437rn6ZBaLIY/giphy.gif" width="30"> 
+- 🤔: Exploring the working's of a startup <img src="https://media.giphy.com/media/PzCjAj3wWjRss/giphy.gif" width="30"> 
 
 - :zap: In my free time, I DJ and work on learning new tech!
 
