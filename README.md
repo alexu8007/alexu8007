@@ -58,7 +58,7 @@ I am a Software Developer & **Founder & CTO @ Pillthought** <img src="https://me
 
 
 ![](https://github-readme-stats.vercel.app/api?username=alexu8007&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexu8007&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexu8007&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexu8007" alt="bombo" /></a> </p>
 
