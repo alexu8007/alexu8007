@@ -11,10 +11,10 @@
 
 ###
 
-- ⚡️ [LightSpeed](https://alexu8007.github.io/LightSpeedWebsite/)
-- 🕷️ [Palkia](https://palkia.me)
-- ⚕️ [PT Technologies](https://pillthought.com)
-- 🛡️ [Avangard](https://x.com/avangardlabs)
+- ⚡️ [LightSpeed](https://alexu8007.github.io/LightSpeedWebsite/): cutting-edge, fully automated, and precision-driven codebase optimization
+- 🕷️ [Palkia](https://palkia.me): Recipient of the Google AI Innovation Award for groundbreaking advancements in AI-powered bug reporting.
+- ⚕️ [PT Technologies](https://pillthought.com): Leading the way in pharmaceutical technology with innovative solutions
+- 🛡️ [Avangard](https://x.com/avangardlabs): Premier machine learning research laboratory
 
 ###
 
@@ -23,9 +23,6 @@
   <a href="https://x.com/alexinbinary" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="28" height="16" alt="twitter logo"  />
   </a>
-  <div id="header" align="left">
-  <img src="https://komarev.com/ghpvc/?username=alexu8007&style=flat-square&color=blue" alt=""/>
-</div>
 </div>
 
 
