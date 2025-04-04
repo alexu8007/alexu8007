@@ -23,10 +23,11 @@
   <a href="https://x.com/alexinbinary" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="28" height="16" alt="twitter logo"  />
   </a>
-</div>
-<div id="header" align="left">
+  <div id="header" align="left">
   <img src="https://komarev.com/ghpvc/?username=alexu8007&style=flat-square&color=blue" alt=""/>
 </div>
+</div>
+
 
 ###
 
