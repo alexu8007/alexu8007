@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Engineer & Innovator.  <br>Founder @ Avangard & Lightspeed. We make things that work.<br><br>Focused on making quality, simplistic and cutting-edge designs & products.<br><br>for years, i wore many hats.  <br>check out what i'm working on now ↓</p>
+<p align="left">Engineer & Innovator.  <br>Founder @ Avangard & Lightspeed. We make things that work.<br><br>Focused on making quality, simplistic and cutting-edge products.<br><br>for years, i wore many hats.  <br>check out what i'm working on now ↓</p>
 
 ###
 
