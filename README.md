@@ -12,7 +12,7 @@
 ###
 
 - ⚡️ [LightSpeed](https://alexu8007.github.io/LightSpeedWebsite/): cutting-edge, fully automated, and precision-driven codebase optimization
-- 🕷️ [Palkia](https://palkia.me): Recipient of the Google AI Innovation Award for groundbreaking advancements in AI-powered bug reporting.
+- 🕷️ [Palkia](https://palkia.me): Recipient of the _**Google AI Innovation Award**_ for groundbreaking advancements in AI-powered bug reporting.
 - ⚕️ [PT Technologies](https://pillthought.com): Leading the way in pharmaceutical technology with innovative solutions
 - 🛡️ [Avangard](https://x.com/avangardlabs): Premier machine learning research laboratory
 
