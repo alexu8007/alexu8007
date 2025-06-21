@@ -3,7 +3,7 @@
 
 ###
 
-**_Engineer_** & **_Innovator_**.  <br>Founder @ **PillThought** & **Lightspeed**. We make things that work.<br><br>Focused on making quality, simplistic and _cutting-edge_ products.<br><br>for years, i wore many hats.  <br>check out what i'm working on now ↓
+**_Engineer_** & **_Innovator_**.  <br>Founder @ **PillThought** & **Polarity**. We make things that work.<br><br>Focused on making quality, simplistic and _cutting-edge_ products.<br><br>for years, i wore many hats.  <br>check out what i'm working on now ↓
 
 ###
 
