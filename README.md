@@ -11,7 +11,7 @@
 
 ###
 
-- ⚡️ [LightSpeed](https://alexu8007.github.io/LightSpeedWebsite/): cutting-edge, fully automated, and precision-driven codebase optimization
+- ⚡️ [Polarity](https://polarity.cc/): cutting-edge, fully automated, and precision-driven codebase optimization
 - 🕷️ [Palkia](https://palkia.me): Recipient of the _**Google AI Innovation Award**_ for groundbreaking advancements in AI-powered bug reporting.
 - ⚕️ [PT Technologies](https://pillthought.com): Award Winning Software Development studio, we make things that look good and work good 
 - 🛡️ [Avangard](https://x.com/avangardlabs): Premier machine learning research laboratory
