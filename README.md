@@ -3,17 +3,7 @@
 
 ###
 
-**_Engineer_** & **_Innovator_**.  <br>Founder @ **PillThought** & **Polarity**. We make things that work.<br><br>Focused on making quality, simplistic and _cutting-edge_ products.<br><br>for years, i wore many hats.  <br>check out what i'm working on now ↓
-
-###
-
-<h2 align="left">Currently</h2>
-
-###
-
-- ⚡️ [Polarity](https://polarity.cc/): cutting-edge, fully automated, and precision-driven codebase optimization
-- 🕷️ [Palkia](https://palkia.me): Recipient of the _**Google AI Innovation Award**_ for groundbreaking advancements in AI-powered bug reporting.
-- ⚕️ [PT Technologies](https://pillthought.com): Award Winning Software Development studio, we make things that look good and work good 
+**_Engineer_** & **_Innovator_**.  <br>Founder @ **Polarity**. We make things that work.<br><br>Focused on making quality, simplistic and _cutting-edge_ products.<br><br>for years, i wore many hats.  <br>check out what i'm working on now ↓
 
 ###
 
